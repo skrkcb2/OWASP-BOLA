@@ -8,6 +8,8 @@
 #### 보안 코드:
 ![bola-sec](https://github.com/user-attachments/assets/bb9cf8c3-4712-43fe-b655-5ccbf5a6e866)
 #### 방어 예시 / 위 공격 예시와 같이 똑같은 흐름으로 진행
+![bola-sec](https://github.com/user-attachments/assets/e01af3d4-c8fa-42c5-8879-f5e73684ab63)
+
 
 
 
