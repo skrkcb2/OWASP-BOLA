@@ -9,7 +9,7 @@
 ![bola-sec](https://github.com/user-attachments/assets/bb9cf8c3-4712-43fe-b655-5ccbf5a6e866)
 #### 방어 예시 / 위 공격 예시와 같이 똑같은 흐름으로 진행
 ![bola-sec](https://github.com/user-attachments/assets/e01af3d4-c8fa-42c5-8879-f5e73684ab63)
-#### BOLA의 경우 사용자가 자신 권한을 넘지 못하도록 세션 혹은 토큰에 정보를 남겨 비교 하는 방법으로 막을수 있다.
+#### BOLA의 경우 공격자가 자신 권한을 넘지 못하도록 세션 혹은 토큰에 정보를 남겨 비교 하는 방법으로 막을수 있다.
 
 
 
